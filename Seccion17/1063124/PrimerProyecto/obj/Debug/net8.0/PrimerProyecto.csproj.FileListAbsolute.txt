@@ -1,0 +1,14 @@
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.exe
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.deps.json
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.runtimeconfig.json
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.dll
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\bin\Debug\net8.0\PrimerProyecto.pdb
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.AssemblyInfo.cs
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.dll
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\obj\Debug\net8.0\refint\PrimerProyecto.dll
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.pdb
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\obj\Debug\net8.0\PrimerProyecto.genruntimeconfig.cache
+C:\Users\Pablo Moreira\Documents\PrimerSemestre\PensamientoComputacional\Seccion17\1063124\PrimerProyecto\obj\Debug\net8.0\ref\PrimerProyecto.dll
