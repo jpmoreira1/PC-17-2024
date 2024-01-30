@@ -1,0 +1,15 @@
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\bin\Debug\net6.0\ConsoleApp300124.cs.exe
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\bin\Debug\net6.0\ConsoleApp300124.cs.deps.json
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\bin\Debug\net6.0\ConsoleApp300124.cs.runtimeconfig.json
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\bin\Debug\net6.0\ConsoleApp300124.cs.dll
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\bin\Debug\net6.0\ConsoleApp300124.cs.pdb
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\ConsoleApp300124.cs.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\ConsoleApp300124.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\ConsoleApp300124.cs.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\ConsoleApp300124.cs.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\ConsoleApp300124.cs.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\ConsoleApp300124.cs.dll
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\refint\ConsoleApp300124.cs.dll
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\ConsoleApp300124.cs.pdb
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\ConsoleApp300124.cs.genruntimeconfig.cache
+C:\Users\Estudiante\source\repos\ConsoleApp300124.cs\ConsoleApp300124.cs\obj\Debug\net6.0\ref\ConsoleApp300124.cs.dll
