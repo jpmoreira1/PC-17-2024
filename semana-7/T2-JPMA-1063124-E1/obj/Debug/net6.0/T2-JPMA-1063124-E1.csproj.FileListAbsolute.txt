@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\bin\Debug\net6.0\T2-JPMA-1063124-E1.exe
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\bin\Debug\net6.0\T2-JPMA-1063124-E1.deps.json
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\bin\Debug\net6.0\T2-JPMA-1063124-E1.runtimeconfig.json
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\bin\Debug\net6.0\T2-JPMA-1063124-E1.dll
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\bin\Debug\net6.0\T2-JPMA-1063124-E1.pdb
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\T2-JPMA-1063124-E1.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\T2-JPMA-1063124-E1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\T2-JPMA-1063124-E1.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\T2-JPMA-1063124-E1.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\T2-JPMA-1063124-E1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\T2-JPMA-1063124-E1.dll
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\refint\T2-JPMA-1063124-E1.dll
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\T2-JPMA-1063124-E1.pdb
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\T2-JPMA-1063124-E1.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\T2-JPMA-1063124-E1\obj\Debug\net6.0\ref\T2-JPMA-1063124-E1.dll

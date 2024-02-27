@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "T2-JPMA-1063124-E1/1.0.0": {
+        "runtime": {
+          "T2-JPMA-1063124-E1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T2-JPMA-1063124-E1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
