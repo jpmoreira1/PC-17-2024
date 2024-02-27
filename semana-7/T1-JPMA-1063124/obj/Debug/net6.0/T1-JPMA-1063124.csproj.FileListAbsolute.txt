@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\bin\Debug\net6.0\T1-JPMA-1063124.exe
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\bin\Debug\net6.0\T1-JPMA-1063124.deps.json
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\bin\Debug\net6.0\T1-JPMA-1063124.runtimeconfig.json
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\bin\Debug\net6.0\T1-JPMA-1063124.dll
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\bin\Debug\net6.0\T1-JPMA-1063124.pdb
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\T1-JPMA-1063124.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\T1-JPMA-1063124.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\T1-JPMA-1063124.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\T1-JPMA-1063124.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\T1-JPMA-1063124.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\T1-JPMA-1063124.dll
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\refint\T1-JPMA-1063124.dll
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\T1-JPMA-1063124.pdb
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\T1-JPMA-1063124.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\T1-JPMA-1063124\obj\Debug\net6.0\ref\T1-JPMA-1063124.dll
