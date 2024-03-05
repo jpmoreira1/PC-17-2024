@@ -1,0 +1,10 @@
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\obj\Debug\L4-JPMA-1063124.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\obj\Debug\L4_JPMA_1063124.Form1.resources
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\obj\Debug\L4_JPMA_1063124.Properties.Resources.resources
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\obj\Debug\L4-JPMA-1063124.csproj.GenerateResource.cache
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\obj\Debug\L4-JPMA-1063124.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\bin\Debug\L4-JPMA-1063124.exe.config
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\bin\Debug\L4-JPMA-1063124.exe
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\bin\Debug\L4-JPMA-1063124.pdb
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\obj\Debug\L4-JPMA-1063124.exe
+C:\Users\juanm\source\repos\L4-JPMA-1063124\L4-JPMA-1063124\obj\Debug\L4-JPMA-1063124.pdb
