@@ -1,0 +1,14 @@
+C:\Users\juanm\Documents\proyectob1\bin\Debug\net8.0\proyectob1.exe
+C:\Users\juanm\Documents\proyectob1\bin\Debug\net8.0\proyectob1.deps.json
+C:\Users\juanm\Documents\proyectob1\bin\Debug\net8.0\proyectob1.runtimeconfig.json
+C:\Users\juanm\Documents\proyectob1\bin\Debug\net8.0\proyectob1.dll
+C:\Users\juanm\Documents\proyectob1\bin\Debug\net8.0\proyectob1.pdb
+C:\Users\juanm\Documents\proyectob1\obj\Debug\net8.0\proyectob1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\Documents\proyectob1\obj\Debug\net8.0\proyectob1.AssemblyInfoInputs.cache
+C:\Users\juanm\Documents\proyectob1\obj\Debug\net8.0\proyectob1.AssemblyInfo.cs
+C:\Users\juanm\Documents\proyectob1\obj\Debug\net8.0\proyectob1.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Documents\proyectob1\obj\Debug\net8.0\proyectob1.dll
+C:\Users\juanm\Documents\proyectob1\obj\Debug\net8.0\refint\proyectob1.dll
+C:\Users\juanm\Documents\proyectob1\obj\Debug\net8.0\proyectob1.pdb
+C:\Users\juanm\Documents\proyectob1\obj\Debug\net8.0\proyectob1.genruntimeconfig.cache
+C:\Users\juanm\Documents\proyectob1\obj\Debug\net8.0\ref\proyectob1.dll
